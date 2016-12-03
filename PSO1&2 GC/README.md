@@ -13,7 +13,7 @@ ___
 + Bank Mod
 + Enemys will drop Rare Loot
 
-*Because of the nature of these two cheats I have supplied two different cheat (***.gci) files with either one.*
+*Because of the nature of Infinite Health and Revive cheats, I have supplied two different cheat (***.gct) files with either one.*
 
 ### Download
 Type            | Link
