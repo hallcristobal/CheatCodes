@@ -315,6 +315,45 @@ WEAPONS
 43776 = WHITE SABER
 44032 = WHITE SABER
 
+Special Rings
+
+66132 = Blue Defense Ring
+66133 = Blue Quicker Attacks Ring
+66134 = Blue Fortune Ring
+66135 = Blue Accuracy Ring
+66136 = Blue Strengh Ring
+66137 = Blue Focus Ring
+66140 = Green Defense Ring
+66141 = Green Quicker Attacks Ring
+66142 = Green Fortune Ring
+66143 = Green Accuracy Ring
+66144 = Green Strength Ring
+66145 = Green Focus Ring
+66148 = Yellow Defense Ring
+66149 = Yellow Quicker Attacks Ring
+66150 = Yellow Fortune Ring
+66151 = Yellow Accuracy Ring
+66152 = Yellow Strengh Ring
+66153 = Yellow Focus Ring
+66156 = Purple Defense Ring
+66157 = Purple Quicker Attacks Ring
+66158 = Purple Fortune Ring
+66159 = Purple Accuracy Ring
+66160 = Purple Strengh Ring
+66161 = Purple Focus Ring
+66164 = White Defense Ring
+66165 = White Quicker Attacks Ring
+66166 = White Fortune Ring
+66167 = White Accuracy Ring
+66168 = White Strengh Ring
+66169 = White Focus Ring
+66172 = Black Defense Ring
+66173 = Black Quicker Attacks Ring
+66174 = Black Fortune Ring
+66175 = Black Accuracy Ring
+66176 = Black Strengh Ring
+66177 = Black Focus Ring
+
 ARMORS
 
 65792 = Frame
@@ -472,44 +511,6 @@ SHIELDS
 66144 = WEAPONS SILVER SHIELD
 66145 = WEAPONS COPPER SHIELD
 66146 = GREEN RING
-
-Special Rings (credit LEE, released by trepdimeflou) Not sure if these ones work.
-66132 - Blue Defense Ring
-66133 - Blue Quicker Attacks Ring
-66134 - Blue Fortune Ring
-66135 - Blue Accuracy Ring
-66136 - Blue Strengh Ring
-66137 - Blue Focus Ring
-66140 - Green Defense Ring
-66141 - Green Quicker Attacks Ring
-66142 - Green Fortune Ring
-66143 - Green Accuracy Ring
-66144 - Green Strength Ring
-66145 - Green Focus Ring
-66148 - Yellow Defense Ring
-66149 - Yellow Quicker Attacks Ring
-66150 - Yellow Fortune Ring
-66151 - Yellow Accuracy Ring
-66152 - Yellow Strengh Ring
-66153 - Yellow Focus Ring
-66156 - Purple Defense Ring
-66157 - Purple Quicker Attacks Ring
-66158 - Purple Fortune Ring
-66159 - Purple Accuracy Ring
-66160 - Purple Strengh Ring
-66161 - Purple Focus Ring
-66164 - White Defense Ring
-66165 - White Quicker Attacks Ring
-66166 - White Fortune Ring
-66167 - White Accuracy Ring
-66168 - White Strengh Ring
-66169 - White Focus Ring
-66172 - Black Defense Ring
-66173 - Black Quicker Attacks Ring
-66174 - Black Fortune Ring
-66175 - Black Accuracy Ring
-66176 - Black Strengh Ring
-66177 - Black Focus Ring
 
 SLOT ITEMS
 
