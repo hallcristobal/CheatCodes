@@ -1,0 +1,61 @@
+######Written by TrogWW
+- Outset
+- Forsaken Fortress 1
+- Get 80 Rupees from Barrel Game
+- Do Zephos Skip
+- Superswim to Greatfish, stopping at N. Triangle on the way
+- Get Double Storage, Superswim to Windfall
+- Rescue Tingle, Obtain Bombs, Call Tingle
+- Get Double Storage, Superswim to Forest Haven
+- Talk to Deku Tree
+- Leave Forest Haven, hover to highest platform
+- Jump into bulb, get Deku Leaf
+- Enter FW with Tingle Balloon (set Wind West)
+- Forbidden Woods (get 50 rupees with Tingle)
+- Leave without save warping, get damaged by Octorock, enter Beedle
+- Get Double Storage, Superswim to Outset
+- Superswim to whirlpool, get Nayru's Pearl
+- Superswim to S. Triangle, place pearl
+- Superswim to E. Triangle, place Pearl
+- Superswim to Dragon Roost, do Delivery Bag Skip
+- Use Leaf over gap, Enter DRC
+- Dragon Roost Cavern (Get 50 rupees with Tingle, do TAS route)
+- Superswim to N. Triangle, place pearl
+- Tower of the Gods (Tuner strats)
+- Puzzle skip, get Master Sword, Hyrule Escape
+- Sail to Northern Triangle to kill Cyclos
+- Superswim to Islet of Steel, get Triforce Chart
+- Sail to Golden Ship, get Treasure Chart
+- Warp to Windfall, Superswim to FF2, do FF2 (no wind changes), Hyrule 2
+- Warp to S. Fairy, sail to Shark Island, get Treasure Chart
+- Superswim to Headstone Island, get Earth God's Lyric Early
+- Superswim to Needle Rock, get Treasure Chart
+- Warp to Mother & Child, clip out w/ Storage, Superswim to Gale Island
+- Superswim to N. Fairy Island, get Wallet Upgrade
+- Warp to Dragon Roost, Chest-Storage strat to Medli
+- Superswim to Fire Mountain (savewarp while touching it), get Power Bracelets, savewarp
+- Sail to E. Fairy, get Treasure Chart
+- Warp to Forest Haven, Superswim to Ice Ring, get Iron Boots
+- Get Double Storage, Superswim to Headstone, Earth Temple (fish up Chart after)
+- Warp to Forest Haven, get Makar
+- Warp to Windfall, Superswim to Gale, Wind Temple
+- Superswim to Overlook, get Triforce Chart
+- Warp to Outset, get Wallet Upgrade
+- Save warp, do Savage Labyrinth
+- Sail to Diamond Steppe, get Ghost Ship Chart
+- Superswim to Stonewatcher, get Triforce Chart
+- Superswim to Private Oasis, get Triforce Chart
+- Superswim to Bird's Peak Rock, get Triforce Chart
+- Superswim to Ghost Ship (Bomb Island), farm Ghost Ship by clipping out repeatedly, get Triforce Chart
+- Warp to Tingle Island, Decipher Charts
+- Superswim to Gale Island, drown, get Shard 2
+- Warp to Outset, get Shard 4
+- Warp to Greatfish, get Shard 1
+- Set Wind East
+- Sail to Stonewatcher, get Shard 3
+- Sail to S. Triangle, get Shard 6
+- Warp to Dragon Roost, sail to Seven-Star, get Shard 7
+- Warp to S. Fairy, sail to 2-Eye-Reef, get Shard 8
+- Warp to Forest Haven, sail to Cliff Plateau, get Shard 5
+- Warp to Tower of the Gods, enter cutscene
+- Ganon's Tower
