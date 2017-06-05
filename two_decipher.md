@@ -1,4 +1,6 @@
 ###### Written by TrogWW
+[Detailed Doc](https://docs.google.com/document/d/11dHBC7NL7tat8kXpw4joYHeyt9zTyWkCyga0P6ZPWcI/edit?pageId=105064512840785758521)  
+
 ## Outset Island
 ---
 Sidehop off of tower and talk to Grandma  
@@ -20,13 +22,7 @@ Bokoblin fight and rng rupees from grass
 Cutscenes then head to Grandma 
 Receive Hero's Shield and roll back to Tetra  
 
-### Rope Game 1
-
-- Mash A for first rope  
-- Delay A slightly for second rope  
-- Mash A for third and fourth rope  
-- Side hop to Nico  
-- Receive Spoils Bag and Save Warp  
+Rope Game 1  
 
 ## Forsaken Fortress 1
 ---
@@ -50,12 +46,7 @@ Play Barrel Game for 80 Rupees <span style="color: #f64747">[80 Rupees]</span>
 ## Dragon Roost Island
 ---
 Do Zephos Skip for Wind's Requiem  
-<div class="embedded_video" id="PH2nlqm2EKk"></div>  
-
 [Superswim](http://www.zeldaspeedruns.com/tww/Techniques/superswim) to Greatfish (Refill, or N. Triangle save on the way)  
-<div class="embedded_video" id="0O5PDJ0UBzc?t=2034"></div>  
-
-###### Timestamp: 33:53  
 
 ### Greatfish  
 
@@ -67,7 +58,6 @@ Superswim to Windfall
 ---
 Free Tingle and receive Tingle Tuner  
 Password Skip to enter Pirate Ship  
-<div class="embedded_video" id="bAhNoSfKEl4"></div>  
 
 Rope Game 2  
 
@@ -97,7 +87,8 @@ Damage down with Octorock
 Jump off and enter an exit Beedle  
 Get Double Storage  
 Superswim to Outset stopping at S. Fairy Island  
-Superswim to whirlpool  
+Get wallet upgrade from Forest of Faries  
+Swim whirlpool  
 Receive Nayru's Pearl
 
 ### Dragon Roost 2
@@ -125,7 +116,6 @@ Superswim to N. Triangle and place Pearl
 ## Hyrule 1  
 ---
 Puzzle skip for Master Sword  
-<div class="embedded_video" id="yuu_SXUjgHc"></div>  
 
 Exit Chamber  
 Do [Hyrule Escape](http://zeldaspeedruns.com/tww/area-tricks-strats/hyrule#skip-defeating-the-enemies-after-drawing-the-master-sword)  
@@ -151,44 +141,146 @@ Climb Forsaken Fortress with Chest Storage
 
 Tetra to Zelda Cutscene (spoilers)  
 Get Magic, Bombs and Arrows from grass  
-Leave Hyrule  
+Leave Hyrule 
+ 
+## Chart Collection
+---
+Warp to Greatfish Isle 
+Sail to Islet of Steel  
+Store chest and leave <span style="color: #9370db">[1/8 Triforce Charts]</span>  
+ 
+Sail to Needle Rock 1 <span style="color: #333">// Help?</span>  
 
+Sail to Golden Ship  
+Fish up Triforce Chart <span style="color: #9370db">[2/8 Triforce Charts]</span>  
+ 
+Warp to Mother and Child Isles  
+Recieve Fire and Ice Arrows  
 
-Puzzle skip, get Master Sword, Hyrule Escape  
-Sail to Northern Triangle to kill Cyclos  
-Superswim to Islet of Steel, get Triforce Chart  
-Sail to Golden Ship, get Treasure Chart  
-Warp to Windfall, Superswim to FF2, do FF2 (no wind changes), Hyrule 2  
-Warp to S. Fairy, sail to Shark Island, get Treasure Chart  
-Superswim to Headstone Island, get Earth God's Lyric Early  
-Superswim to Needle Rock, get Treasure Chart  
-Warp to Mother & Child, clip out w/ Storage, Superswim to Gale Island  
-Superswim to N. Fairy Island, get Wallet Upgrade  
-Warp to Dragon Roost, Chest-Storage strat to Medli  
-Superswim to Fire Mountain (savewarp while touching it), get Power Bracelets, savewarp  
-Sail to E. Fairy, get Treasure Chart  
-Warp to Forest Haven, Superswim to Ice Ring, get Iron Boots  
-Get Double Storage, Superswim to Headstone, Earth Temple (fish up Chart after)  
-Warp to Forest Haven, get Makar  
-Warp to Windfall, Superswim to Gale, Wind Temple  
-Superswim to Overlook, get Triforce Chart  
-Warp to Outset, get Wallet Upgrade  
-Save warp, do Savage Labyrinth  
-Sail to Diamond Steppe, get Ghost Ship Chart  
-Superswim to Stonewatcher, get Triforce Chart  
-Superswim to Private Oasis, get Triforce Chart  
-Superswim to Bird's Peak Rock, get Triforce Chart  
-Superswim to Ghost Ship (Bomb Island), farm Ghost Ship by clipping out repeatedly,  
-get Triforce Chart  
-Warp to Tingle Island, Decipher Charts  
-Superswim to Gale Island, drown, get Shard 2  
-Warp to Outset, get Shard 4  
-Warp to Greatfish, get Shard 1  
-Set Wind East  
-Sail to Stonewatcher, get Shard 3  
-Sail to S. Triangle, get Shard 6  
-Warp to Dragon Roost, sail to Seven-Star, get Shard 7  
-Warp to S. Fairy, sail to 2-Eye-Reef, get Shard 8  
-Warp to Forest Haven, sail to Cliff Plateau, get Shard 5  
-Warp to Tower of the Gods, enter cutscene  
-Ganon's Tower
+Get Storage and Swim to Gale  
+Recieve Wind God’s Aria  
+
+Superswim to N. Fairy Island  
+Recieve 5000 Wallet Upgrade  
+
+Warp to S. Fairy Island  
+Sail to Shark Island  
+Fish up Treasure Chart  
+
+Superswim to Headstone  
+Earth God’s Lyric Early  
+
+Superswim clip into Diamond Steppe (No hookshot)  
+Recieve Ghost Ship Chart (Hookshotless route)  
+
+Superswim to Ghost Ship (Diamond Steppe)  
+Farm for rupees  
+Recieve Triforce Chart <span style="color: #9370db">[3/8 Triforce Charts]</span>  
+Set wind [North] 
+Sail to Needle Rock  
+Fish up Treasure Chart  
+
+## To Earth Temple
+---
+Warp to Dragon Roost  
+Get storage and shoot down Rupee Chest  
+Store Chest and Climb to Medli  
+
+Superswim to E. Fairy  
+Bomb rocks, enter and exit  
+Fish up Treasure Chart  
+
+Sail to Fire Mountain, power bracelets, exit  
+Superswim to Bird’s Peak Rock  
+Recieve Triforce Chart <span style="color: #9370db">[4/8 Triforce Charts]</span>  
+Superswim to Ice Ring Isle  
+Recieve Iron Boots  
+Exit and Leaf to KoRL [No need to connect Tingle tuner]  
+Get double storage  
+Superswim to Headstone Island  
+
+## Earth Temple  
+---
+- Earth Temple
+
+## To Wind Temple
+---
+Fish up Headstone chart  
+Superswim to Stonewatcher  
+Recieve Triforce Chart <span style="color: #9370db">[5/8 Triforce Charts]</span>  
+Superswim to Tingle Island  
+Decipher Charts  
+
+Jump in water  
+Savewarp [back to Stonewatcher]  
+Fish up Triforce Shard <span style="color: #ffd700">[1/8 Triforce Shards]</span>  
+
+Warp to Forest Haven  
+Get Makar  
+Sail to Cliff Plateau  
+Fish up Triforce Shard <span style="color: #ffd700">[2/8 Triforce Shards]</span>  
+ 
+Warp to Windfall Island  
+Superswim to Gale Isle  
+
+## Wind Temple
+---
+- Wind Temple  
+
+## Triforce Collection
+Superswim to Overlook Island  
+Recieve Triforce Chart <span style="color: #9370db">[6/8 Triforce Charts]</span>  
+
+Set wind [West, or South-West if sailing to Two-Eye later]  
+Sail to Seven Star Isles  
+Fish up Triforce Shard <span style="color: #ffd700">[3/8 Triforce Shards]</span>  
+ 
+Warp to Outset Island  
+Fish up Triforce Shard <span style="color: #ffd700">[4/8 Triforce Shards]</span>  
+Savage labyrinth [Collect rupees throughout]  
+Recieve Triforce Chart <span style="color: #9370db">[7/8 Triforce Charts]</span>  
+
+Superswim to Private Oasis  
+Cabana Deed Skip [Rupees if Necissary]  
+Recieve Triforce Chart <span style="color: #9370db">[8/8 Triforce Charts]</span>  
+ 
+Warp to Tingle Island  
+Decipher Charts (Oasis, Savage, Overlook)  
+Superswim to Gale Island  
+Fish up Triforce Shard <span style="color: #ffd700">[5/8 Triforce Shards]</span>  
+ 
+Warp to Greatfish Isle  
+Fish up Triforce Shard <span style="color: #ffd700">[6/8 Triforce Shards]</span>  
+
+Superswim to S. Triangle  
+Save Warp  
+Fish up Triforce Shard <span style="color: #ffd700">[7/8 Triforce Shards]</span>  
+
+Superswim to Two-Eye Reef (or warp to S. Fairy, then sail to Two-Eye, with SW wind)  
+Save Warp  
+Fish up Triforce Shard <span style="color: #ffd700">[8/8 Triforce Shards] ▲</span>  
+
+## Hyrule 3  
+---
+Warp to Tower of the Gods  
+
+Kill Mighty Darknuts  
+[Barrier cutscene skip](http://zeldaspeedruns.com/tww/area-tricks-strats/hyrule#skip-the-barrierbreaking-cutscene-japanese-only)  
+
+## Ganon's Tower  
+---
+[Trials skip](http://zeldaspeedruns.com/tww/dungeons/ganons-tower#trials-skip)  
+Light Arrow Maze
+  - Back, Left, Straight, Left, Right, Straight  
+  
+### Puppet Ganon  
+
+  - Snipe tail first phase  
+  - (Try) Krypshot second phase  
+  - Snipe tail third phase  
+
+### Ganondorf  
+
+  - Iron Boots strats  
+
+Timing ends when sword pierces Ganondorf
